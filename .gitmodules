@@ -1,0 +1,3 @@
+[submodule "vagrant-php-dev"]
+	path = vagrant-php-dev
+	url = https://github.com/AndresBott/vagrant-php-dev.git

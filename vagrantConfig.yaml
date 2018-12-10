@@ -1,0 +1,16 @@
+---
+machine_name: php-dev-mi-meteo
+mounts:
+  - host: ../src
+    client: /host_project
+    loop_mount: /vhosts/web
+#    loop_mount:
+#    uid: 1000 # default
+#    gid: 1000 #default
+#    owner: vagrant #defautl
+#    group: vagrant #default
+
+mysqldump: []
+
+
+
